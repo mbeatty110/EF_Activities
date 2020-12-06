@@ -1,8 +1,10 @@
 ---
-title: 'Activity 1 - R Primer'
+title: "Activity 1 - R Primer"
 author: "Michael Dietze"
 date: "August 25, 2014"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ## Objectives
@@ -804,7 +806,7 @@ If you know another language and are picking up R:
 
 *	The hardest transition will be SYNTAX
 
-Everyone:
+Everyone: sfsf
 
 *	Save code early and often
   + Even better is to commit your code in a version control system like git
